@@ -1,5 +1,7 @@
 # Quiz
 
+[![Join the chat at https://gitter.im/kmaooad18/quiz-w8](https://badges.gitter.im/kmaooad18/quiz-w8.svg)](https://gitter.im/kmaooad18/quiz-w8?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Read questions in `quiz.md`. Carefully analyze given cases and find proper solutions.
 
 Submit your answers to `answer.txt` file, e.g.:
